@@ -24,9 +24,12 @@ I am a **Ph.D. Candidate** in Computer Engineering at **Hallym University** and 
 
 
 ## Award
-(2021) Hallym AI + X R&D challenge  - 대상
-(2022) 한국통신학회 추계종합학술발표회  - 장려상
-(2024) 한림대 의료원 Clinical data 활용 경진대회 - 우수상
+ - (2021) Hallym AI + X R&D challenge  - 대상
+
+ - (2022) 한국통신학회 추계종합학술발표회  - 장려상
+
+ - (2024) 한림대 의료원 Clinical data 활용 경진대회 - 우수상
+
 ## 📫 Contact
 - **Email**: HCMun@hallym.ac.kr 
 - **Lab**: [mmc.hallym.ac.kr](https://mmc.hallym.ac.kr)  
