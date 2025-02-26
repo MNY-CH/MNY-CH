@@ -12,10 +12,11 @@ I am an AI researcher specializing in **adversarial attacks** using **PyTorch** 
 I am a member of the **Multi Media Computing (MMC) Lab** at Hallym University. My current work involves **adversarial robustness**, **deep learning security**, and **computer vision**.
 
 ### 🔧 Skills & Tools
-- **Deep Learning**: PyTorch, TensorFlow  
-- **Programming**: Python, NumPy, OpenCV  
-- **Adversarial AI**: FGSM, PGD, CW Attack, Stealthy Perturbations  
-- **Other**: CUDA, Linux, Docker, Jupyter Notebook  
+ - **Deep Learning**
+ - **Computer Vision**
+ - **Adversarial Attack**
+ - **Medical AI**
+
 
 ## 📚 Publications
 > (Add your research papers here)  
@@ -23,9 +24,7 @@ I am a member of the **Multi Media Computing (MMC) Lab** at Hallym University. M
 > - **[Title]** - *Author(s), Conference/Journal, Year* [(Link)](your-paper-link)
 
 ## 📫 Contact
-- **Email**: your.email@domain.com  
-- **Website**: [yourwebsite.com](https://yourwebsite.com)  
-- **LinkedIn**: [YourProfile](https://linkedin.com/in/yourprofile)  
-- **Google Scholar**: [YourProfile](https://scholar.google.com/citations?user=yourprofile)  
+- **Email**: HCMun@hallym.ac.kr 
+- **Website**: [mmc.hallym.ac.kr](https://mmc.hallym.ac.kr)  
 
 Thanks for visiting! 🚀  
