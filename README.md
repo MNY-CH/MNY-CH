@@ -1,5 +1,5 @@
 ## Huichan Mun
-I am a **Ph.D. Candidate** in Computer Engineering at **Hallym University** and a member of the **Multi Media Computing (MMC) Lab**, advised by **Prof. Jong-Uk Hou**. My research focuses on **Deep learning**, **computer vision**, **adversarial attacks**.  
+I am a **Ph.D. Candidate** in Computer Engineering at **Hallym University** and a member of the **Multimedia Computing (MMC) Lab**, advised by **Prof. Jong-Uk Hou**. My research focuses on **Deep learning**, **computer vision**, **adversarial attacks**.  
 
 ### 🎓 Education
 - **Ph.D. Candidate** in Computer Engineering, Hallym University  
